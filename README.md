@@ -2,8 +2,12 @@
 
 Testing [xtts_v2](https://github.com/coqui-ai/TTS) when chatting with a Large language model (LLM). Ask the AI a question and the answer is read back to you.
 
-> TODO video with audio
-> **Video description**
+
+
+https://github.com/Scthe/ai-chat-with-tts/assets/9325337/97c44378-b0b9-47cc-af5a-06c98d37bb5a
+
+*In the video we are asking the AI "Who is Michael Jordan?". The answer is read back to us. Uses `xtts_v2` and voice cloning for a custom voice, which is the most computationally expensive option. I think it sounds nice! It can even pronounce "NBA". I like the emphasis on "the greatest". Can't argue with that.*
+
 
 ## Usage
 
