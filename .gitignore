@@ -1,0 +1,20 @@
+# python
+__pycache__
+env
+.venv
+
+# misc
+*.code-workspace
+.vscode
+
+# app files
+# Result of `python.exe tts_scripts.py speak`
+out_speak_result.wav
+# Contains samples for voice cloning if the tts model has many speakers
+out_speaker_samples/*
+!out_speaker_samples/.gitkeep
+
+# my
+_references
+voice_to_clone.wav
+benchmark.md
